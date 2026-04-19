@@ -1,0 +1,9 @@
+{
+  "telegramBotToken": "токен бота",
+  "telegramChatId": "айди админа",
+  "targetSubnets": [
+    "51.250",
+    "84.201"
+  ],
+  "allowedUsers": []
+}
