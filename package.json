@@ -1,0 +1,11 @@
+{
+  "name": "yc-ip-catcher",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node get-yc-ip.ts"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
