@@ -1,6 +1,6 @@
 {
-  "telegramBotToken": "токен бота",
-  "telegramChatId": "айди админа",
+  "telegramBotToken": "8546826872:AAFIiFRdJvccuAsl_u6iLEenougYoofRtRM",
+  "telegramChatId": "8432011115",
   "targetSubnets": [
     "51.250",
     "84.201"
